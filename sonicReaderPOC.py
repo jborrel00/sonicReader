@@ -13,3 +13,8 @@ pygame.mixer.music.load('test.wav')
 pygame.mixer.music.play()
 pygame.mixer.music.load('test2.wav')
 pygame.mixer.music.play()
+
+"""
+this might come up:
+string to ascii--> map(ord,"string")
+"""
